@@ -4,6 +4,12 @@
   font-family: "pricedown";
   src: url("./pricedown.otf");
 }
+@font-face {
+  font-family: "Helvetica Now Display";
+  src: url("/fonts/HelveticaNowDisplay.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
 
 html,
 body {

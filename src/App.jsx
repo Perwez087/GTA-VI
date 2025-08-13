@@ -166,7 +166,7 @@ const App = () => {
             <div className="btmbar text-white absolute bottom-0 left-0 w-full py-15 px-10 bg-gradient-to-t from-black to-transparent">
               <div className="flex gap-4 items-center">
                 <i className="text-xl ri-arrow-down-line"></i>
-                <h3 className="font-[Helvetica_Now_Display]">Scroll Down</h3>
+                <h3 className="font-helvetica">Scroll Down</h3>
               </div>
               <img
                 className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-[45px]"
@@ -190,17 +190,17 @@ const App = () => {
               <div className="rg w-[30%]">
                 <h1 className="text-6xl">Still Running,</h1>
                 <h1 className="text-6xl">Not Hunting</h1>
-                <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
+                <p className="mt-10 text-xl font-helvetica">
                   Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                   Illum tenetur, modi architecto natus, consequatur nesciunt,
                   repellat quia.
                 </p>
-                <p className="mt-3 text-xl font-[Helvetica_Now_Display]">
+                <p className="mt-3 text-xl font-helvetica">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
                   tempore quas laborum eveniet. Lorem ipsum dolor sit amet
                   consectetur adipisicing elit.
                 </p>
-                <p className="mt-3 text-xl font-[Helvetica_Now_Display]">
+                <p className="mt-3 text-xl font-helvetica">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
                   tempore quas laborum eveniet. Lorem ipsum dolor sit amet
                   consectetur adipisicing elit.
